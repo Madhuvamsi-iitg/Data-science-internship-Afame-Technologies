@@ -1,1 +1,1 @@
-# Data-science-internship-Afame-Technologies
+# Sales prediction using python
